@@ -1,4 +1,4 @@
-# This is a Vector.cpp class
+#<center> This is a Vector.cpp class </center> 
 this project provide Vec operation.
 That includes :
 1. addition(+)

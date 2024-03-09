@@ -1,4 +1,7 @@
-#<center> This is a Vector.cpp class </center> 
+<h1 class="text-center"> 
+This is a Vector.cpp class
+</h1>
+
 this project provide Vec operation.
 That includes :
 1. addition(+)

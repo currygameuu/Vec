@@ -1,5 +1,5 @@
 
-<h1 style="text-align: center;"> 
+<h1 align="center"> 
 This is a Vector.cpp class
 </h1>
 

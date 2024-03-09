@@ -54,4 +54,5 @@ int main(){
     cout <<"v3, v4 inner product = "<< inner << endl;
     Vec v5 = v3*5;//(25, 40)
     cout << "v5:" << v5 << endl;
+    return 0;
 }
